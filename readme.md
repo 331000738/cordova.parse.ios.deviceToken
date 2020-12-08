@@ -21,7 +21,7 @@ window.parseDeviceToken(function (token) {
 ## Adding the Plugin ##
 
 ```
-  cordova plugin add https://github.com/trymbill/cordova.parse.ios.deviceToken.git
+  cordova plugin add https://github.com/trymbill/cordova-plugin-ios-devicetoken.git
 ```
 
 ## Credit goes to Nickbarth

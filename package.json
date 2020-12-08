@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-ios-devicetoken",
+  "version": "1.0.0",
+  "author": "xjp",
+  "license": "MIT",
+  "keywords": [
+    "cordova"
+  ],
+  "main": "www/parseDeviceToken.js",
+  "homepage": "https://github.com/331000738/cordova-plugin-ios-devicetoken",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/331000738/cordova-plugin-ios-devicetoken.git"
+  },
+  "bugs": {
+    "url": "https://github.com/331000738/cordova-plugin-ios-devicetoken/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-ios-devicetoken",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova-ios",
+      "version": ">=5.0.1"
+    }
+  ]
+}
